@@ -1,0 +1,8 @@
+file: GoldenRibbons.apk
+bytes: 111587890
+sha256: 6d57411b8731c15e9cdd7e61fb533da10ff014397545b25ae696ee3ce6f45db5
+expo_build: 57ea1a4e-bd7f-447e-b5a2-f0b8663b823a
+package: com.anonymous.goldenribbon
+version_name: 1.0.0
+version_code: 1
+artifact: apk
